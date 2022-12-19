@@ -8,6 +8,7 @@ public class TestBase {
 		
 		System.out.println("TestBase");
 		System.out.println("Added dependied in pom.xml");
+		System.out.println("Added from Github");
 	}
 
 }
